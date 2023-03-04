@@ -22,8 +22,9 @@ All orders are given a score by the model (“classification score”) For each 
 * classification_score: the score given by the model
 
 **Task**
-Rely exclusively on model scores using COMPANY decision-engine, and set a decline threshold that will provide a 90% approval rate
-Plot the model scores distribution
-Assuming we aim at a proportion of 50% between the CHB cost and the total revenue (sum amount of CHBs divided by the total revenue), what would have to be the fee based COMPANY’s business model?
-In the dataset, there’s a column indicating whether the purchased goods are digital or tangible. What can you say about the risk level of each segment?
-Free exploration - Provide 2-3 interesting breakdowns or insights.
+
+1. Rely exclusively on model scores using COMPANY decision-engine, and set a decline threshold that will provide a 90% approval rate
+2. Plot the model scores distribution
+3. Assuming we aim at a proportion of 50% between the CHB cost and the total revenue (sum amount of CHBs divided by the total revenue), what would have to be the fee based COMPANY’s business model?
+4. In the dataset, there’s a column indicating whether the purchased goods are digital or tangible. What can you say about the risk level of each segment?
+5. Free exploration - Provide 2-3 interesting breakdowns or insights.
